@@ -29,7 +29,7 @@ Implications and Risks
 
 This contract represents an extreme form of financial control which, if deployed in real-world scenarios, could have significant implications:
 
-- Privacy Concerns: Every transaction could potentially be tracked, analyzed, and controlled by the EU Authority, leading to significant privacy intrusions.
+- Privacy Concerns: Every transaction could potentially be tracked, analysed, and controlled by the EU Authority, leading to significant privacy intrusions.
 
 - Sovereignty Issues: By allowing or restricting transactions based on geopolitical decisions, it undermines the sovereignty of nation-states. Countries could find their economic policies dictated by external forces.
 
@@ -37,4 +37,4 @@ This contract represents an extreme form of financial control which, if deployed
 
 - Civil Liberties: With the ability to sanction individuals or restrict spending categories, this system could be used to enforce or punish behaviors beyond mere financial transactions, encroaching on personal freedoms.
 
-The EUCBDCAdvanced contract is a theoretical exploration of the extreme capabilities technology could enable in financial control. It demonstrates potential technical functionalities, and its an example of how technology could be used to centralize power, potentially at the cost of individual freedoms and national sovereignty. 
+The EUCBDCAdvanced contract is a theoretical exploration of the extreme capabilities technology could enable in financial control. It demonstrates potential technical functionalities, and its an example of how technology could be used to centralise power, potentially at the cost of individual freedoms and national sovereignty. 
