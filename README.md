@@ -8,15 +8,15 @@ The EUCBDCAdvanced contract is an Ethereum smart contract designed to simulate a
 
 Key Features
 
-- Minting and Burning**: Allows the EU Authority or designated entities to create or destroy tokens, controlling the total money supply.
+- Minting and Burning: Allows the EU Authority or designated entities to create or destroy tokens, controlling the total money supply.
   
-- Transaction Limitations**: Implements daily transaction limits, category-specific restrictions (like fuel and food), and time-based restrictions for certain types of expenditures.
+- Transaction Limitations: Implements daily transaction limits, category-specific restrictions (like fuel and food), and time-based restrictions for certain types of expenditures.
 
-- Sanctions**: Enables the application or lifting of sanctions on users, restricting their ability to transact based on predefined conditions or durations.
+- Sanctions: Enables the application or lifting of sanctions on users, restricting their ability to transact based on predefined conditions or durations.
 
-- Country-Specific Controls**: Can freeze or unfreeze spending specific to nations, potentially affecting trade and economic relations at a geopolitical level.
+- Country-Specific Controls: Can freeze or unfreeze spending specific to nations, potentially affecting trade and economic relations at a geopolitical level.
 
-- User-Specific Restrictions**: Capabilities to restrict activities like travel-related transactions, further controlling user behavior.
+- User-Specific Restrictions: Capabilities to restrict activities like travel-related transactions, further controlling user behavior.
 
 Functionality
 
